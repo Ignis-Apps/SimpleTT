@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "613087760481",
+    "firebase_url": "https://simple-table-tennis-78174568.firebaseio.com",
+    "project_id": "simple-table-tennis-78174568",
+    "storage_bucket": "simple-table-tennis-78174568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613087760481:android:7f08145ec02aa626",
+        "android_client_info": {
+          "package_name": "de.js_labs.simpletabletennis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613087760481-5b9tikdkan3r65qpsoup3c3on6q33vim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.js_labs.simpletabletennis",
+            "certificate_hash": "202d120aa495f4f508351045d91276a0c9fd3604"
+          }
+        },
+        {
+          "client_id": "613087760481-t9e1rcqrdo1grkng8vn7jov5of6f8vbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.js_labs.simpletabletennis",
+            "certificate_hash": "1445611fee3755c609bcdfc5ee95d234835d89cb"
+          }
+        },
+        {
+          "client_id": "613087760481-5lp86k9p3tbrl1r0vloebhetudt231rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqsIzIeZeAN62qAjA7QxvuNpxnhQK93cI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613087760481-5lp86k9p3tbrl1r0vloebhetudt231rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613087760481:android:1823b2b9e07d6505",
+        "android_client_info": {
+          "package_name": "de.js_labs.simpletabletennis.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613087760481-pb23u7nbum115tg7km40ev6dae0m5rpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.js_labs.simpletabletennis.android",
+            "certificate_hash": "86b104d68c9737b8afeac6c41339717a92e92751"
+          }
+        },
+        {
+          "client_id": "613087760481-5lp86k9p3tbrl1r0vloebhetudt231rg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "613087760481-u0ekueilh1euminhnv1omf87hnnr2m9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.js_labs.simpletabletennis.android",
+            "certificate_hash": "202d120aa495f4f508351045d91276a0c9fd3604"
+          }
+        },
+        {
+          "client_id": "613087760481-ngielb188vp8u3hqor6rlcdu1qlddcct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.js_labs.simpletabletennis.android",
+            "certificate_hash": "5797f235041cb6f23c140c17256ac4f8c76a9779"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqsIzIeZeAN62qAjA7QxvuNpxnhQK93cI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613087760481-5lp86k9p3tbrl1r0vloebhetudt231rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
